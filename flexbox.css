@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    padding: 400px;
+}
+.parent {
+    background-color: white;
+    width: 92%;
+    height: 620px;
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+    justify-items: center;
+    justify-content: ;
+    align-items: baseline;
+}
+.child {
+    background-color: bisque;
+    width: 210px;
+    height: 200px;
+}
+ 
